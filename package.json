@@ -1,0 +1,24 @@
+{
+  "name": "prayertimes",
+  "version": "1.0.0",
+  "description": "Astronomical prayer time calculator with tests",
+  "main": "src/prayerTimes/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/prayertimes.git"
+  },
+  "keywords": [
+    "prayer",
+    "times",
+    "astronomy"
+  ],
+  "author": "Mohamed Jeafer",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.2.0",
+    "axios": "^1.5.0"
+  }
+}
