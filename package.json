@@ -1,14 +1,22 @@
 {
   "name": "prayertimes",
   "version": "1.0.0",
-  "description": "Astronomical prayer time calculator with tests",
+  "description": "Astronomical prayer time calculator",
   "main": "src/prayerTimes/index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "format": "npx @biomejs/biome check --write ./src"
+  },
+  "modules": {
+    "type": "module"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourname/prayertimes.git"
+    "url": "https://github.com/mohamed-jeafer/prayertimes.git"
   },
   "keywords": [
     "prayer",
@@ -18,7 +26,18 @@
   "author": "Mohamed Jeafer",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^30.2.0",
-    "axios": "^1.5.0"
+    "@babel/core": "^7.24.0",
+    "@babel/preset-env": "^7.24.0",
+    "@biomejs/biome": "2.4.2",
+    "axios": "^1.5.0",
+    "babel-jest": "^30.2.0",
+    "jest": "^30.2.0"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[tj]s$": "babel-jest"
+    },
+    "testMatch": ["<rootDir>/test/**/*.test.js", "<rootDir>/test/**/*.spec.js"],
+    "testPathIgnorePatterns": ["/node_modules/", "/adhan-js/"]
   }
 }

@@ -1,0 +1,3670 @@
+{
+    "status": "200",
+    "message": "OK",
+    "latitude": 43.441388888888888,
+    "longitude": -80.486666666666665,
+    "data": {
+        "location": null,
+        "localDateTimeNow": {
+            "date": "1447/08/29",
+            "gmt": "-5",
+            "localTime": "00:47:25",
+            "hijriDate": "1447/08/28",
+            "hijriDateString": "1447  شعبان  28",
+            "weekday": "Tuesday",
+            "daylightSavingsTime": "False"
+        },
+        "prayerTimes": [
+            {
+                "prayerDate": "2026/01/01",
+                "fajr": "06:11",
+                "sunrise": "07:55",
+                "dhuhr": "12:27",
+                "sunset": "16:57",
+                "maghreb": "17:15",
+                "midnight": "23:34",
+                "astronomicalMidnight": "00:27"
+            },
+            {
+                "prayerDate": "2026/01/02",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:27",
+                "sunset": "16:57",
+                "maghreb": "17:16",
+                "midnight": "23:34",
+                "astronomicalMidnight": "00:27"
+            },
+            {
+                "prayerDate": "2026/01/03",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:28",
+                "sunset": "16:58",
+                "maghreb": "17:17",
+                "midnight": "23:35",
+                "astronomicalMidnight": "00:28"
+            },
+            {
+                "prayerDate": "2026/01/04",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:28",
+                "sunset": "16:59",
+                "maghreb": "17:18",
+                "midnight": "23:36",
+                "astronomicalMidnight": "00:28"
+            },
+            {
+                "prayerDate": "2026/01/05",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:28",
+                "sunset": "17:00",
+                "maghreb": "17:19",
+                "midnight": "23:36",
+                "astronomicalMidnight": "00:28"
+            },
+            {
+                "prayerDate": "2026/01/06",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:29",
+                "sunset": "17:01",
+                "maghreb": "17:20",
+                "midnight": "23:37",
+                "astronomicalMidnight": "00:29"
+            },
+            {
+                "prayerDate": "2026/01/07",
+                "fajr": "06:12",
+                "sunrise": "07:55",
+                "dhuhr": "12:29",
+                "sunset": "17:02",
+                "maghreb": "17:21",
+                "midnight": "23:37",
+                "astronomicalMidnight": "00:29"
+            },
+            {
+                "prayerDate": "2026/01/08",
+                "fajr": "06:12",
+                "sunrise": "07:54",
+                "dhuhr": "12:30",
+                "sunset": "17:04",
+                "maghreb": "17:22",
+                "midnight": "23:38",
+                "astronomicalMidnight": "00:30"
+            },
+            {
+                "prayerDate": "2026/01/09",
+                "fajr": "06:12",
+                "sunrise": "07:54",
+                "dhuhr": "12:30",
+                "sunset": "17:05",
+                "maghreb": "17:23",
+                "midnight": "23:38",
+                "astronomicalMidnight": "00:30"
+            },
+            {
+                "prayerDate": "2026/01/10",
+                "fajr": "06:11",
+                "sunrise": "07:54",
+                "dhuhr": "12:31",
+                "sunset": "17:06",
+                "maghreb": "17:24",
+                "midnight": "23:38",
+                "astronomicalMidnight": "00:31"
+            },
+            {
+                "prayerDate": "2026/01/11",
+                "fajr": "06:11",
+                "sunrise": "07:53",
+                "dhuhr": "12:31",
+                "sunset": "17:07",
+                "maghreb": "17:25",
+                "midnight": "23:39",
+                "astronomicalMidnight": "00:31"
+            },
+            {
+                "prayerDate": "2026/01/12",
+                "fajr": "06:11",
+                "sunrise": "07:53",
+                "dhuhr": "12:31",
+                "sunset": "17:08",
+                "maghreb": "17:26",
+                "midnight": "23:39",
+                "astronomicalMidnight": "00:31"
+            },
+            {
+                "prayerDate": "2026/01/13",
+                "fajr": "06:11",
+                "sunrise": "07:53",
+                "dhuhr": "12:32",
+                "sunset": "17:09",
+                "maghreb": "17:28",
+                "midnight": "23:40",
+                "astronomicalMidnight": "00:32"
+            },
+            {
+                "prayerDate": "2026/01/14",
+                "fajr": "06:11",
+                "sunrise": "07:52",
+                "dhuhr": "12:32",
+                "sunset": "17:10",
+                "maghreb": "17:29",
+                "midnight": "23:41",
+                "astronomicalMidnight": "00:32"
+            },
+            {
+                "prayerDate": "2026/01/15",
+                "fajr": "06:10",
+                "sunrise": "07:52",
+                "dhuhr": "12:32",
+                "sunset": "17:12",
+                "maghreb": "17:30",
+                "midnight": "23:41",
+                "astronomicalMidnight": "00:32"
+            },
+            {
+                "prayerDate": "2026/01/16",
+                "fajr": "06:10",
+                "sunrise": "07:51",
+                "dhuhr": "12:33",
+                "sunset": "17:13",
+                "maghreb": "17:31",
+                "midnight": "23:41",
+                "astronomicalMidnight": "00:33"
+            },
+            {
+                "prayerDate": "2026/01/17",
+                "fajr": "06:10",
+                "sunrise": "07:51",
+                "dhuhr": "12:33",
+                "sunset": "17:14",
+                "maghreb": "17:32",
+                "midnight": "23:42",
+                "astronomicalMidnight": "00:33"
+            },
+            {
+                "prayerDate": "2026/01/18",
+                "fajr": "06:09",
+                "sunrise": "07:50",
+                "dhuhr": "12:33",
+                "sunset": "17:15",
+                "maghreb": "17:33",
+                "midnight": "23:42",
+                "astronomicalMidnight": "00:33"
+            },
+            {
+                "prayerDate": "2026/01/19",
+                "fajr": "06:09",
+                "sunrise": "07:50",
+                "dhuhr": "12:34",
+                "sunset": "17:17",
+                "maghreb": "17:35",
+                "midnight": "23:43",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/01/20",
+                "fajr": "06:08",
+                "sunrise": "07:49",
+                "dhuhr": "12:34",
+                "sunset": "17:18",
+                "maghreb": "17:36",
+                "midnight": "23:43",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/01/21",
+                "fajr": "06:08",
+                "sunrise": "07:48",
+                "dhuhr": "12:34",
+                "sunset": "17:19",
+                "maghreb": "17:37",
+                "midnight": "23:44",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/01/22",
+                "fajr": "06:07",
+                "sunrise": "07:47",
+                "dhuhr": "12:35",
+                "sunset": "17:21",
+                "maghreb": "17:38",
+                "midnight": "23:44",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/01/23",
+                "fajr": "06:07",
+                "sunrise": "07:47",
+                "dhuhr": "12:35",
+                "sunset": "17:22",
+                "maghreb": "17:40",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/01/24",
+                "fajr": "06:06",
+                "sunrise": "07:46",
+                "dhuhr": "12:35",
+                "sunset": "17:23",
+                "maghreb": "17:41",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/01/25",
+                "fajr": "06:05",
+                "sunrise": "07:45",
+                "dhuhr": "12:35",
+                "sunset": "17:25",
+                "maghreb": "17:42",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/01/26",
+                "fajr": "06:05",
+                "sunrise": "07:44",
+                "dhuhr": "12:36",
+                "sunset": "17:26",
+                "maghreb": "17:43",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/01/27",
+                "fajr": "06:04",
+                "sunrise": "07:43",
+                "dhuhr": "12:36",
+                "sunset": "17:27",
+                "maghreb": "17:45",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/01/28",
+                "fajr": "06:03",
+                "sunrise": "07:42",
+                "dhuhr": "12:36",
+                "sunset": "17:29",
+                "maghreb": "17:46",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/01/29",
+                "fajr": "06:02",
+                "sunrise": "07:41",
+                "dhuhr": "12:36",
+                "sunset": "17:30",
+                "maghreb": "17:47",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/01/30",
+                "fajr": "06:02",
+                "sunrise": "07:40",
+                "dhuhr": "12:36",
+                "sunset": "17:31",
+                "maghreb": "17:49",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/01/31",
+                "fajr": "06:01",
+                "sunrise": "07:39",
+                "dhuhr": "12:36",
+                "sunset": "17:33",
+                "maghreb": "17:50",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/01",
+                "fajr": "06:00",
+                "sunrise": "07:38",
+                "dhuhr": "12:37",
+                "sunset": "17:34",
+                "maghreb": "17:51",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/02",
+                "fajr": "05:59",
+                "sunrise": "07:37",
+                "dhuhr": "12:37",
+                "sunset": "17:35",
+                "maghreb": "17:52",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/03",
+                "fajr": "05:58",
+                "sunrise": "07:36",
+                "dhuhr": "12:37",
+                "sunset": "17:37",
+                "maghreb": "17:54",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/04",
+                "fajr": "05:57",
+                "sunrise": "07:35",
+                "dhuhr": "12:37",
+                "sunset": "17:38",
+                "maghreb": "17:55",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/05",
+                "fajr": "05:56",
+                "sunrise": "07:34",
+                "dhuhr": "12:37",
+                "sunset": "17:39",
+                "maghreb": "17:56",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/06",
+                "fajr": "05:55",
+                "sunrise": "07:32",
+                "dhuhr": "12:37",
+                "sunset": "17:41",
+                "maghreb": "17:58",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/07",
+                "fajr": "05:54",
+                "sunrise": "07:31",
+                "dhuhr": "12:37",
+                "sunset": "17:42",
+                "maghreb": "17:59",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/08",
+                "fajr": "05:53",
+                "sunrise": "07:30",
+                "dhuhr": "12:37",
+                "sunset": "17:43",
+                "maghreb": "18:00",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/09",
+                "fajr": "05:52",
+                "sunrise": "07:28",
+                "dhuhr": "12:37",
+                "sunset": "17:45",
+                "maghreb": "18:01",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/10",
+                "fajr": "05:51",
+                "sunrise": "07:27",
+                "dhuhr": "12:37",
+                "sunset": "17:46",
+                "maghreb": "18:03",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/11",
+                "fajr": "05:49",
+                "sunrise": "07:26",
+                "dhuhr": "12:37",
+                "sunset": "17:47",
+                "maghreb": "18:04",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/12",
+                "fajr": "05:48",
+                "sunrise": "07:24",
+                "dhuhr": "12:37",
+                "sunset": "17:49",
+                "maghreb": "18:05",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/13",
+                "fajr": "05:47",
+                "sunrise": "07:23",
+                "dhuhr": "12:37",
+                "sunset": "17:50",
+                "maghreb": "18:07",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/14",
+                "fajr": "05:46",
+                "sunrise": "07:22",
+                "dhuhr": "12:37",
+                "sunset": "17:51",
+                "maghreb": "18:08",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/15",
+                "fajr": "05:44",
+                "sunrise": "07:20",
+                "dhuhr": "12:37",
+                "sunset": "17:53",
+                "maghreb": "18:09",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/16",
+                "fajr": "05:43",
+                "sunrise": "07:19",
+                "dhuhr": "12:37",
+                "sunset": "17:54",
+                "maghreb": "18:10",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/17",
+                "fajr": "05:42",
+                "sunrise": "07:17",
+                "dhuhr": "12:37",
+                "sunset": "17:55",
+                "maghreb": "18:12",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/18",
+                "fajr": "05:40",
+                "sunrise": "07:16",
+                "dhuhr": "12:37",
+                "sunset": "17:57",
+                "maghreb": "18:13",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/19",
+                "fajr": "05:39",
+                "sunrise": "07:14",
+                "dhuhr": "12:37",
+                "sunset": "17:58",
+                "maghreb": "18:14",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/20",
+                "fajr": "05:37",
+                "sunrise": "07:13",
+                "dhuhr": "12:37",
+                "sunset": "17:59",
+                "maghreb": "18:16",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/21",
+                "fajr": "05:36",
+                "sunrise": "07:11",
+                "dhuhr": "12:37",
+                "sunset": "18:01",
+                "maghreb": "18:17",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:37"
+            },
+            {
+                "prayerDate": "2026/02/22",
+                "fajr": "05:35",
+                "sunrise": "07:10",
+                "dhuhr": "12:36",
+                "sunset": "18:02",
+                "maghreb": "18:18",
+                "midnight": "23:49",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/23",
+                "fajr": "05:33",
+                "sunrise": "07:08",
+                "dhuhr": "12:36",
+                "sunset": "18:03",
+                "maghreb": "18:19",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/24",
+                "fajr": "05:32",
+                "sunrise": "07:06",
+                "dhuhr": "12:36",
+                "sunset": "18:04",
+                "maghreb": "18:21",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/25",
+                "fajr": "05:30",
+                "sunrise": "07:05",
+                "dhuhr": "12:36",
+                "sunset": "18:06",
+                "maghreb": "18:22",
+                "midnight": "23:48",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/26",
+                "fajr": "05:28",
+                "sunrise": "07:03",
+                "dhuhr": "12:36",
+                "sunset": "18:07",
+                "maghreb": "18:23",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/27",
+                "fajr": "05:27",
+                "sunrise": "07:01",
+                "dhuhr": "12:36",
+                "sunset": "18:08",
+                "maghreb": "18:24",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:36"
+            },
+            {
+                "prayerDate": "2026/02/28",
+                "fajr": "05:25",
+                "sunrise": "07:00",
+                "dhuhr": "12:35",
+                "sunset": "18:10",
+                "maghreb": "18:26",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/03/01",
+                "fajr": "05:24",
+                "sunrise": "06:58",
+                "dhuhr": "12:35",
+                "sunset": "18:11",
+                "maghreb": "18:27",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/03/02",
+                "fajr": "05:22",
+                "sunrise": "06:56",
+                "dhuhr": "12:35",
+                "sunset": "18:12",
+                "maghreb": "18:28",
+                "midnight": "23:47",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/03/03",
+                "fajr": "05:20",
+                "sunrise": "06:55",
+                "dhuhr": "12:35",
+                "sunset": "18:13",
+                "maghreb": "18:29",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/03/04",
+                "fajr": "05:18",
+                "sunrise": "06:53",
+                "dhuhr": "12:35",
+                "sunset": "18:15",
+                "maghreb": "18:31",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:35"
+            },
+            {
+                "prayerDate": "2026/03/05",
+                "fajr": "05:17",
+                "sunrise": "06:51",
+                "dhuhr": "12:34",
+                "sunset": "18:16",
+                "maghreb": "18:32",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/03/06",
+                "fajr": "05:15",
+                "sunrise": "06:50",
+                "dhuhr": "12:34",
+                "sunset": "18:17",
+                "maghreb": "18:33",
+                "midnight": "23:46",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/03/07",
+                "fajr": "05:13",
+                "sunrise": "06:48",
+                "dhuhr": "12:34",
+                "sunset": "18:18",
+                "maghreb": "18:34",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/03/08",
+                "fajr": "05:11",
+                "sunrise": "06:46",
+                "dhuhr": "12:34",
+                "sunset": "18:19",
+                "maghreb": "18:36",
+                "midnight": "23:45",
+                "astronomicalMidnight": "00:34"
+            },
+            {
+                "prayerDate": "2026/03/09",
+                "fajr": "06:10",
+                "sunrise": "07:44",
+                "dhuhr": "13:33",
+                "sunset": "19:21",
+                "maghreb": "19:37",
+                "midnight": "00:46",
+                "astronomicalMidnight": "01:33"
+            },
+            {
+                "prayerDate": "2026/03/10",
+                "fajr": "06:08",
+                "sunrise": "07:43",
+                "dhuhr": "13:33",
+                "sunset": "19:22",
+                "maghreb": "19:38",
+                "midnight": "00:45",
+                "astronomicalMidnight": "01:33"
+            },
+            {
+                "prayerDate": "2026/03/11",
+                "fajr": "06:06",
+                "sunrise": "07:41",
+                "dhuhr": "13:33",
+                "sunset": "19:23",
+                "maghreb": "19:39",
+                "midnight": "00:44",
+                "astronomicalMidnight": "01:33"
+            },
+            {
+                "prayerDate": "2026/03/12",
+                "fajr": "06:04",
+                "sunrise": "07:39",
+                "dhuhr": "13:33",
+                "sunset": "19:24",
+                "maghreb": "19:41",
+                "midnight": "00:44",
+                "astronomicalMidnight": "01:33"
+            },
+            {
+                "prayerDate": "2026/03/13",
+                "fajr": "06:02",
+                "sunrise": "07:37",
+                "dhuhr": "13:32",
+                "sunset": "19:26",
+                "maghreb": "19:42",
+                "midnight": "00:44",
+                "astronomicalMidnight": "01:32"
+            },
+            {
+                "prayerDate": "2026/03/14",
+                "fajr": "06:00",
+                "sunrise": "07:35",
+                "dhuhr": "13:32",
+                "sunset": "19:27",
+                "maghreb": "19:43",
+                "midnight": "00:44",
+                "astronomicalMidnight": "01:32"
+            },
+            {
+                "prayerDate": "2026/03/15",
+                "fajr": "05:59",
+                "sunrise": "07:34",
+                "dhuhr": "13:32",
+                "sunset": "19:28",
+                "maghreb": "19:44",
+                "midnight": "00:44",
+                "astronomicalMidnight": "01:32"
+            },
+            {
+                "prayerDate": "2026/03/16",
+                "fajr": "05:57",
+                "sunrise": "07:32",
+                "dhuhr": "13:31",
+                "sunset": "19:29",
+                "maghreb": "19:45",
+                "midnight": "00:43",
+                "astronomicalMidnight": "01:31"
+            },
+            {
+                "prayerDate": "2026/03/17",
+                "fajr": "05:55",
+                "sunrise": "07:30",
+                "dhuhr": "13:31",
+                "sunset": "19:31",
+                "maghreb": "19:47",
+                "midnight": "00:43",
+                "astronomicalMidnight": "01:31"
+            },
+            {
+                "prayerDate": "2026/03/18",
+                "fajr": "05:53",
+                "sunrise": "07:28",
+                "dhuhr": "13:31",
+                "sunset": "19:32",
+                "maghreb": "19:48",
+                "midnight": "00:42",
+                "astronomicalMidnight": "01:31"
+            },
+            {
+                "prayerDate": "2026/03/19",
+                "fajr": "05:51",
+                "sunrise": "07:27",
+                "dhuhr": "13:31",
+                "sunset": "19:33",
+                "maghreb": "19:49",
+                "midnight": "00:42",
+                "astronomicalMidnight": "01:31"
+            },
+            {
+                "prayerDate": "2026/03/20",
+                "fajr": "05:49",
+                "sunrise": "07:25",
+                "dhuhr": "13:30",
+                "sunset": "19:34",
+                "maghreb": "19:50",
+                "midnight": "00:42",
+                "astronomicalMidnight": "01:30"
+            },
+            {
+                "prayerDate": "2026/03/21",
+                "fajr": "05:47",
+                "sunrise": "07:23",
+                "dhuhr": "13:30",
+                "sunset": "19:35",
+                "maghreb": "19:52",
+                "midnight": "00:41",
+                "astronomicalMidnight": "01:30"
+            },
+            {
+                "prayerDate": "2026/03/22",
+                "fajr": "05:45",
+                "sunrise": "07:21",
+                "dhuhr": "13:30",
+                "sunset": "19:37",
+                "maghreb": "19:53",
+                "midnight": "00:41",
+                "astronomicalMidnight": "01:30"
+            },
+            {
+                "prayerDate": "2026/03/23",
+                "fajr": "05:43",
+                "sunrise": "07:19",
+                "dhuhr": "13:29",
+                "sunset": "19:38",
+                "maghreb": "19:54",
+                "midnight": "00:40",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/03/24",
+                "fajr": "05:41",
+                "sunrise": "07:18",
+                "dhuhr": "13:29",
+                "sunset": "19:39",
+                "maghreb": "19:55",
+                "midnight": "00:40",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/03/25",
+                "fajr": "05:39",
+                "sunrise": "07:16",
+                "dhuhr": "13:29",
+                "sunset": "19:40",
+                "maghreb": "19:56",
+                "midnight": "00:40",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/03/26",
+                "fajr": "05:37",
+                "sunrise": "07:14",
+                "dhuhr": "13:29",
+                "sunset": "19:41",
+                "maghreb": "19:58",
+                "midnight": "00:39",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/03/27",
+                "fajr": "05:35",
+                "sunrise": "07:12",
+                "dhuhr": "13:28",
+                "sunset": "19:43",
+                "maghreb": "19:59",
+                "midnight": "00:39",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/03/28",
+                "fajr": "05:33",
+                "sunrise": "07:10",
+                "dhuhr": "13:28",
+                "sunset": "19:44",
+                "maghreb": "20:00",
+                "midnight": "00:38",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/03/29",
+                "fajr": "05:31",
+                "sunrise": "07:09",
+                "dhuhr": "13:28",
+                "sunset": "19:45",
+                "maghreb": "20:01",
+                "midnight": "00:38",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/03/30",
+                "fajr": "05:29",
+                "sunrise": "07:07",
+                "dhuhr": "13:27",
+                "sunset": "19:46",
+                "maghreb": "20:03",
+                "midnight": "00:38",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/03/31",
+                "fajr": "05:27",
+                "sunrise": "07:05",
+                "dhuhr": "13:27",
+                "sunset": "19:47",
+                "maghreb": "20:04",
+                "midnight": "00:37",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/04/01",
+                "fajr": "05:25",
+                "sunrise": "07:03",
+                "dhuhr": "13:27",
+                "sunset": "19:49",
+                "maghreb": "20:05",
+                "midnight": "00:37",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/04/02",
+                "fajr": "05:23",
+                "sunrise": "07:02",
+                "dhuhr": "13:26",
+                "sunset": "19:50",
+                "maghreb": "20:06",
+                "midnight": "00:36",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/04/03",
+                "fajr": "05:21",
+                "sunrise": "07:00",
+                "dhuhr": "13:26",
+                "sunset": "19:51",
+                "maghreb": "20:07",
+                "midnight": "00:36",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/04/04",
+                "fajr": "05:18",
+                "sunrise": "06:58",
+                "dhuhr": "13:26",
+                "sunset": "19:52",
+                "maghreb": "20:09",
+                "midnight": "00:35",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/04/05",
+                "fajr": "05:16",
+                "sunrise": "06:57",
+                "dhuhr": "13:26",
+                "sunset": "19:53",
+                "maghreb": "20:10",
+                "midnight": "00:34",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/04/06",
+                "fajr": "05:14",
+                "sunrise": "06:55",
+                "dhuhr": "13:25",
+                "sunset": "19:55",
+                "maghreb": "20:11",
+                "midnight": "00:35",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/04/07",
+                "fajr": "05:12",
+                "sunrise": "06:53",
+                "dhuhr": "13:25",
+                "sunset": "19:56",
+                "maghreb": "20:12",
+                "midnight": "00:34",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/04/08",
+                "fajr": "05:10",
+                "sunrise": "06:51",
+                "dhuhr": "13:25",
+                "sunset": "19:57",
+                "maghreb": "20:14",
+                "midnight": "00:34",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/04/09",
+                "fajr": "05:08",
+                "sunrise": "06:50",
+                "dhuhr": "13:24",
+                "sunset": "19:58",
+                "maghreb": "20:15",
+                "midnight": "00:33",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/04/10",
+                "fajr": "05:06",
+                "sunrise": "06:48",
+                "dhuhr": "13:24",
+                "sunset": "19:59",
+                "maghreb": "20:16",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/04/11",
+                "fajr": "05:04",
+                "sunrise": "06:46",
+                "dhuhr": "13:24",
+                "sunset": "20:00",
+                "maghreb": "20:17",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/04/12",
+                "fajr": "05:02",
+                "sunrise": "06:45",
+                "dhuhr": "13:24",
+                "sunset": "20:02",
+                "maghreb": "20:18",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/04/13",
+                "fajr": "05:00",
+                "sunrise": "06:43",
+                "dhuhr": "13:23",
+                "sunset": "20:03",
+                "maghreb": "20:20",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/04/14",
+                "fajr": "04:58",
+                "sunrise": "06:41",
+                "dhuhr": "13:23",
+                "sunset": "20:04",
+                "maghreb": "20:21",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/04/15",
+                "fajr": "04:56",
+                "sunrise": "06:40",
+                "dhuhr": "13:23",
+                "sunset": "20:05",
+                "maghreb": "20:22",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/04/16",
+                "fajr": "04:54",
+                "sunrise": "06:38",
+                "dhuhr": "13:23",
+                "sunset": "20:06",
+                "maghreb": "20:23",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/04/17",
+                "fajr": "04:52",
+                "sunrise": "06:36",
+                "dhuhr": "13:22",
+                "sunset": "20:08",
+                "maghreb": "20:25",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/04/18",
+                "fajr": "04:50",
+                "sunrise": "06:35",
+                "dhuhr": "13:22",
+                "sunset": "20:09",
+                "maghreb": "20:26",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/04/19",
+                "fajr": "04:47",
+                "sunrise": "06:33",
+                "dhuhr": "13:22",
+                "sunset": "20:10",
+                "maghreb": "20:27",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/04/20",
+                "fajr": "04:45",
+                "sunrise": "06:31",
+                "dhuhr": "13:22",
+                "sunset": "20:11",
+                "maghreb": "20:28",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/04/21",
+                "fajr": "04:43",
+                "sunrise": "06:30",
+                "dhuhr": "13:22",
+                "sunset": "20:12",
+                "maghreb": "20:30",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/04/22",
+                "fajr": "04:41",
+                "sunrise": "06:28",
+                "dhuhr": "13:21",
+                "sunset": "20:14",
+                "maghreb": "20:31",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/23",
+                "fajr": "04:39",
+                "sunrise": "06:27",
+                "dhuhr": "13:21",
+                "sunset": "20:15",
+                "maghreb": "20:32",
+                "midnight": "00:27",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/24",
+                "fajr": "04:37",
+                "sunrise": "06:25",
+                "dhuhr": "13:21",
+                "sunset": "20:16",
+                "maghreb": "20:33",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/25",
+                "fajr": "04:35",
+                "sunrise": "06:24",
+                "dhuhr": "13:21",
+                "sunset": "20:17",
+                "maghreb": "20:35",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/26",
+                "fajr": "04:33",
+                "sunrise": "06:22",
+                "dhuhr": "13:21",
+                "sunset": "20:18",
+                "maghreb": "20:36",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/27",
+                "fajr": "04:31",
+                "sunrise": "06:21",
+                "dhuhr": "13:21",
+                "sunset": "20:20",
+                "maghreb": "20:37",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/04/28",
+                "fajr": "04:29",
+                "sunrise": "06:19",
+                "dhuhr": "13:20",
+                "sunset": "20:21",
+                "maghreb": "20:38",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/04/29",
+                "fajr": "04:27",
+                "sunrise": "06:18",
+                "dhuhr": "13:20",
+                "sunset": "20:22",
+                "maghreb": "20:39",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/04/30",
+                "fajr": "04:25",
+                "sunrise": "06:16",
+                "dhuhr": "13:20",
+                "sunset": "20:23",
+                "maghreb": "20:41",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/01",
+                "fajr": "04:21",
+                "sunrise": "06:13",
+                "dhuhr": "13:20",
+                "sunset": "20:25",
+                "maghreb": "20:43",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/02",
+                "fajr": "04:19",
+                "sunrise": "06:12",
+                "dhuhr": "13:20",
+                "sunset": "20:27",
+                "maghreb": "20:44",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/03",
+                "fajr": "04:17",
+                "sunrise": "06:11",
+                "dhuhr": "13:20",
+                "sunset": "20:28",
+                "maghreb": "20:46",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/04",
+                "fajr": "04:14",
+                "sunrise": "06:09",
+                "dhuhr": "13:20",
+                "sunset": "20:29",
+                "maghreb": "20:47",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/05",
+                "fajr": "04:13",
+                "sunrise": "06:08",
+                "dhuhr": "13:20",
+                "sunset": "20:30",
+                "maghreb": "20:48",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/06",
+                "fajr": "04:11",
+                "sunrise": "06:07",
+                "dhuhr": "13:19",
+                "sunset": "20:31",
+                "maghreb": "20:49",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/07",
+                "fajr": "04:09",
+                "sunrise": "06:05",
+                "dhuhr": "13:19",
+                "sunset": "20:32",
+                "maghreb": "20:50",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/08",
+                "fajr": "04:07",
+                "sunrise": "06:04",
+                "dhuhr": "13:19",
+                "sunset": "20:34",
+                "maghreb": "20:51",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/09",
+                "fajr": "04:05",
+                "sunrise": "06:03",
+                "dhuhr": "13:19",
+                "sunset": "20:35",
+                "maghreb": "20:53",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/10",
+                "fajr": "04:03",
+                "sunrise": "06:02",
+                "dhuhr": "13:19",
+                "sunset": "20:36",
+                "maghreb": "20:54",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/11",
+                "fajr": "04:01",
+                "sunrise": "06:01",
+                "dhuhr": "13:19",
+                "sunset": "20:37",
+                "maghreb": "20:55",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/12",
+                "fajr": "03:59",
+                "sunrise": "06:00",
+                "dhuhr": "13:19",
+                "sunset": "20:38",
+                "maghreb": "20:56",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/13",
+                "fajr": "03:57",
+                "sunrise": "05:58",
+                "dhuhr": "13:19",
+                "sunset": "20:39",
+                "maghreb": "20:57",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/14",
+                "fajr": "03:55",
+                "sunrise": "05:57",
+                "dhuhr": "13:19",
+                "sunset": "20:40",
+                "maghreb": "20:58",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/15",
+                "fajr": "03:54",
+                "sunrise": "05:56",
+                "dhuhr": "13:19",
+                "sunset": "20:41",
+                "maghreb": "20:59",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/16",
+                "fajr": "03:52",
+                "sunrise": "05:55",
+                "dhuhr": "13:19",
+                "sunset": "20:42",
+                "maghreb": "21:01",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/17",
+                "fajr": "03:50",
+                "sunrise": "05:54",
+                "dhuhr": "13:19",
+                "sunset": "20:43",
+                "maghreb": "21:02",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/18",
+                "fajr": "03:48",
+                "sunrise": "05:53",
+                "dhuhr": "13:19",
+                "sunset": "20:44",
+                "maghreb": "21:03",
+                "midnight": "00:16",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/05/19",
+                "fajr": "03:47",
+                "sunrise": "05:52",
+                "dhuhr": "13:20",
+                "sunset": "20:45",
+                "maghreb": "21:04",
+                "midnight": "00:16",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/20",
+                "fajr": "03:45",
+                "sunrise": "05:52",
+                "dhuhr": "13:20",
+                "sunset": "20:46",
+                "maghreb": "21:05",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/21",
+                "fajr": "03:43",
+                "sunrise": "05:51",
+                "dhuhr": "13:20",
+                "sunset": "20:47",
+                "maghreb": "21:06",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/22",
+                "fajr": "03:42",
+                "sunrise": "05:50",
+                "dhuhr": "13:20",
+                "sunset": "20:48",
+                "maghreb": "21:07",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/23",
+                "fajr": "03:40",
+                "sunrise": "05:49",
+                "dhuhr": "13:20",
+                "sunset": "20:49",
+                "maghreb": "21:08",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/24",
+                "fajr": "03:39",
+                "sunrise": "05:48",
+                "dhuhr": "13:20",
+                "sunset": "20:50",
+                "maghreb": "21:09",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/25",
+                "fajr": "03:37",
+                "sunrise": "05:48",
+                "dhuhr": "13:20",
+                "sunset": "20:51",
+                "maghreb": "21:10",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/26",
+                "fajr": "03:36",
+                "sunrise": "05:47",
+                "dhuhr": "13:20",
+                "sunset": "20:52",
+                "maghreb": "21:11",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/27",
+                "fajr": "03:35",
+                "sunrise": "05:46",
+                "dhuhr": "13:20",
+                "sunset": "20:53",
+                "maghreb": "21:12",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/28",
+                "fajr": "03:33",
+                "sunrise": "05:46",
+                "dhuhr": "13:20",
+                "sunset": "20:54",
+                "maghreb": "21:13",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/05/29",
+                "fajr": "03:32",
+                "sunrise": "05:45",
+                "dhuhr": "13:21",
+                "sunset": "20:55",
+                "maghreb": "21:14",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/05/30",
+                "fajr": "03:31",
+                "sunrise": "05:44",
+                "dhuhr": "13:21",
+                "sunset": "20:55",
+                "maghreb": "21:14",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/05/31",
+                "fajr": "03:30",
+                "sunrise": "05:44",
+                "dhuhr": "13:21",
+                "sunset": "20:56",
+                "maghreb": "21:15",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/06/01",
+                "fajr": "03:30",
+                "sunrise": "05:44",
+                "dhuhr": "13:21",
+                "sunset": "20:56",
+                "maghreb": "21:15",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/06/02",
+                "fajr": "03:28",
+                "sunrise": "05:43",
+                "dhuhr": "13:21",
+                "sunset": "20:57",
+                "maghreb": "21:16",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/06/03",
+                "fajr": "03:27",
+                "sunrise": "05:43",
+                "dhuhr": "13:21",
+                "sunset": "20:58",
+                "maghreb": "21:17",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/06/04",
+                "fajr": "03:26",
+                "sunrise": "05:42",
+                "dhuhr": "13:21",
+                "sunset": "20:58",
+                "maghreb": "21:18",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/06/05",
+                "fajr": "03:25",
+                "sunrise": "05:42",
+                "dhuhr": "13:22",
+                "sunset": "20:59",
+                "maghreb": "21:18",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/06",
+                "fajr": "03:25",
+                "sunrise": "05:42",
+                "dhuhr": "13:22",
+                "sunset": "21:00",
+                "maghreb": "21:19",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/07",
+                "fajr": "03:24",
+                "sunrise": "05:41",
+                "dhuhr": "13:22",
+                "sunset": "21:00",
+                "maghreb": "21:20",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/08",
+                "fajr": "03:23",
+                "sunrise": "05:41",
+                "dhuhr": "13:22",
+                "sunset": "21:01",
+                "maghreb": "21:20",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/09",
+                "fajr": "03:22",
+                "sunrise": "05:41",
+                "dhuhr": "13:22",
+                "sunset": "21:02",
+                "maghreb": "21:21",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/10",
+                "fajr": "03:22",
+                "sunrise": "05:41",
+                "dhuhr": "13:22",
+                "sunset": "21:02",
+                "maghreb": "21:22",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/06/11",
+                "fajr": "03:21",
+                "sunrise": "05:41",
+                "dhuhr": "13:23",
+                "sunset": "21:03",
+                "maghreb": "21:22",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/06/12",
+                "fajr": "03:21",
+                "sunrise": "05:40",
+                "dhuhr": "13:23",
+                "sunset": "21:03",
+                "maghreb": "21:23",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/06/13",
+                "fajr": "03:20",
+                "sunrise": "05:40",
+                "dhuhr": "13:23",
+                "sunset": "21:04",
+                "maghreb": "21:23",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/06/14",
+                "fajr": "03:20",
+                "sunrise": "05:40",
+                "dhuhr": "13:23",
+                "sunset": "21:04",
+                "maghreb": "21:24",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/06/15",
+                "fajr": "03:20",
+                "sunrise": "05:40",
+                "dhuhr": "13:24",
+                "sunset": "21:04",
+                "maghreb": "21:24",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/06/16",
+                "fajr": "03:19",
+                "sunrise": "05:40",
+                "dhuhr": "13:24",
+                "sunset": "21:05",
+                "maghreb": "21:25",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/06/17",
+                "fajr": "03:19",
+                "sunrise": "05:40",
+                "dhuhr": "13:24",
+                "sunset": "21:05",
+                "maghreb": "21:25",
+                "midnight": "00:12",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/06/18",
+                "fajr": "03:19",
+                "sunrise": "05:41",
+                "dhuhr": "13:24",
+                "sunset": "21:06",
+                "maghreb": "21:25",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/06/19",
+                "fajr": "03:19",
+                "sunrise": "05:41",
+                "dhuhr": "13:24",
+                "sunset": "21:06",
+                "maghreb": "21:25",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/06/20",
+                "fajr": "03:19",
+                "sunrise": "05:41",
+                "dhuhr": "13:25",
+                "sunset": "21:06",
+                "maghreb": "21:26",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/06/21",
+                "fajr": "03:20",
+                "sunrise": "05:41",
+                "dhuhr": "13:25",
+                "sunset": "21:06",
+                "maghreb": "21:26",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/06/22",
+                "fajr": "03:20",
+                "sunrise": "05:41",
+                "dhuhr": "13:25",
+                "sunset": "21:06",
+                "maghreb": "21:26",
+                "midnight": "00:13",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/06/23",
+                "fajr": "03:20",
+                "sunrise": "05:42",
+                "dhuhr": "13:25",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/06/24",
+                "fajr": "03:20",
+                "sunrise": "05:42",
+                "dhuhr": "13:25",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/06/25",
+                "fajr": "03:21",
+                "sunrise": "05:42",
+                "dhuhr": "13:26",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/06/26",
+                "fajr": "03:21",
+                "sunrise": "05:43",
+                "dhuhr": "13:26",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:14",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/06/27",
+                "fajr": "03:22",
+                "sunrise": "05:43",
+                "dhuhr": "13:26",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/06/28",
+                "fajr": "03:23",
+                "sunrise": "05:43",
+                "dhuhr": "13:26",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:15",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/06/29",
+                "fajr": "03:24",
+                "sunrise": "05:44",
+                "dhuhr": "13:27",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:16",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/06/30",
+                "fajr": "03:24",
+                "sunrise": "05:44",
+                "dhuhr": "13:27",
+                "sunset": "21:07",
+                "maghreb": "21:26",
+                "midnight": "00:16",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/07/01",
+                "fajr": "03:26",
+                "sunrise": "05:45",
+                "dhuhr": "13:27",
+                "sunset": "21:06",
+                "maghreb": "21:26",
+                "midnight": "00:16",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/07/02",
+                "fajr": "03:27",
+                "sunrise": "05:46",
+                "dhuhr": "13:27",
+                "sunset": "21:06",
+                "maghreb": "21:25",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/07/03",
+                "fajr": "03:28",
+                "sunrise": "05:47",
+                "dhuhr": "13:27",
+                "sunset": "21:06",
+                "maghreb": "21:25",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/07/04",
+                "fajr": "03:29",
+                "sunrise": "05:47",
+                "dhuhr": "13:28",
+                "sunset": "21:05",
+                "maghreb": "21:25",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/05",
+                "fajr": "03:31",
+                "sunrise": "05:48",
+                "dhuhr": "13:28",
+                "sunset": "21:05",
+                "maghreb": "21:24",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/06",
+                "fajr": "03:32",
+                "sunrise": "05:49",
+                "dhuhr": "13:28",
+                "sunset": "21:05",
+                "maghreb": "21:24",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/07",
+                "fajr": "03:33",
+                "sunrise": "05:49",
+                "dhuhr": "13:28",
+                "sunset": "21:04",
+                "maghreb": "21:24",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/08",
+                "fajr": "03:34",
+                "sunrise": "05:50",
+                "dhuhr": "13:28",
+                "sunset": "21:04",
+                "maghreb": "21:23",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/09",
+                "fajr": "03:36",
+                "sunrise": "05:51",
+                "dhuhr": "13:28",
+                "sunset": "21:03",
+                "maghreb": "21:23",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/07/10",
+                "fajr": "03:37",
+                "sunrise": "05:52",
+                "dhuhr": "13:29",
+                "sunset": "21:03",
+                "maghreb": "21:22",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/11",
+                "fajr": "03:39",
+                "sunrise": "05:52",
+                "dhuhr": "13:29",
+                "sunset": "21:02",
+                "maghreb": "21:21",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/12",
+                "fajr": "03:40",
+                "sunrise": "05:53",
+                "dhuhr": "13:29",
+                "sunset": "21:02",
+                "maghreb": "21:21",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/13",
+                "fajr": "03:42",
+                "sunrise": "05:54",
+                "dhuhr": "13:29",
+                "sunset": "21:01",
+                "maghreb": "21:20",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/14",
+                "fajr": "03:43",
+                "sunrise": "05:55",
+                "dhuhr": "13:29",
+                "sunset": "21:00",
+                "maghreb": "21:19",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/15",
+                "fajr": "03:45",
+                "sunrise": "05:56",
+                "dhuhr": "13:29",
+                "sunset": "21:00",
+                "maghreb": "21:19",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/16",
+                "fajr": "03:46",
+                "sunrise": "05:57",
+                "dhuhr": "13:29",
+                "sunset": "20:59",
+                "maghreb": "21:18",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/17",
+                "fajr": "03:48",
+                "sunrise": "05:58",
+                "dhuhr": "13:29",
+                "sunset": "20:58",
+                "maghreb": "21:17",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/18",
+                "fajr": "03:50",
+                "sunrise": "05:59",
+                "dhuhr": "13:29",
+                "sunset": "20:57",
+                "maghreb": "21:16",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/19",
+                "fajr": "03:51",
+                "sunrise": "06:00",
+                "dhuhr": "13:29",
+                "sunset": "20:57",
+                "maghreb": "21:15",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/20",
+                "fajr": "03:53",
+                "sunrise": "06:01",
+                "dhuhr": "13:29",
+                "sunset": "20:56",
+                "maghreb": "21:14",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/21",
+                "fajr": "03:55",
+                "sunrise": "06:02",
+                "dhuhr": "13:29",
+                "sunset": "20:55",
+                "maghreb": "21:13",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/22",
+                "fajr": "03:56",
+                "sunrise": "06:03",
+                "dhuhr": "13:29",
+                "sunset": "20:54",
+                "maghreb": "21:12",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/23",
+                "fajr": "03:58",
+                "sunrise": "06:04",
+                "dhuhr": "13:29",
+                "sunset": "20:53",
+                "maghreb": "21:11",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/24",
+                "fajr": "04:00",
+                "sunrise": "06:05",
+                "dhuhr": "13:30",
+                "sunset": "20:52",
+                "maghreb": "21:10",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:30"
+            },
+            {
+                "prayerDate": "2026/07/25",
+                "fajr": "04:02",
+                "sunrise": "06:06",
+                "dhuhr": "13:30",
+                "sunset": "20:51",
+                "maghreb": "21:09",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:30"
+            },
+            {
+                "prayerDate": "2026/07/26",
+                "fajr": "04:04",
+                "sunrise": "06:07",
+                "dhuhr": "13:29",
+                "sunset": "20:50",
+                "maghreb": "21:08",
+                "midnight": "00:27",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/27",
+                "fajr": "04:05",
+                "sunrise": "06:08",
+                "dhuhr": "13:29",
+                "sunset": "20:49",
+                "maghreb": "21:07",
+                "midnight": "00:27",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/28",
+                "fajr": "04:07",
+                "sunrise": "06:09",
+                "dhuhr": "13:29",
+                "sunset": "20:48",
+                "maghreb": "21:06",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/29",
+                "fajr": "04:09",
+                "sunrise": "06:10",
+                "dhuhr": "13:29",
+                "sunset": "20:47",
+                "maghreb": "21:05",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/30",
+                "fajr": "04:11",
+                "sunrise": "06:11",
+                "dhuhr": "13:29",
+                "sunset": "20:46",
+                "maghreb": "21:03",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/07/31",
+                "fajr": "04:12",
+                "sunrise": "06:12",
+                "dhuhr": "13:29",
+                "sunset": "20:44",
+                "maghreb": "21:02",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/01",
+                "fajr": "04:12",
+                "sunrise": "06:12",
+                "dhuhr": "13:29",
+                "sunset": "20:44",
+                "maghreb": "21:02",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/02",
+                "fajr": "04:14",
+                "sunrise": "06:13",
+                "dhuhr": "13:29",
+                "sunset": "20:43",
+                "maghreb": "21:01",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/03",
+                "fajr": "04:16",
+                "sunrise": "06:14",
+                "dhuhr": "13:29",
+                "sunset": "20:42",
+                "maghreb": "21:00",
+                "midnight": "00:29",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/04",
+                "fajr": "04:18",
+                "sunrise": "06:15",
+                "dhuhr": "13:29",
+                "sunset": "20:41",
+                "maghreb": "20:58",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/05",
+                "fajr": "04:20",
+                "sunrise": "06:16",
+                "dhuhr": "13:29",
+                "sunset": "20:39",
+                "maghreb": "20:57",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/06",
+                "fajr": "04:21",
+                "sunrise": "06:17",
+                "dhuhr": "13:29",
+                "sunset": "20:38",
+                "maghreb": "20:56",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/07",
+                "fajr": "04:23",
+                "sunrise": "06:18",
+                "dhuhr": "13:29",
+                "sunset": "20:37",
+                "maghreb": "20:54",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/08",
+                "fajr": "04:25",
+                "sunrise": "06:20",
+                "dhuhr": "13:29",
+                "sunset": "20:35",
+                "maghreb": "20:53",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:29"
+            },
+            {
+                "prayerDate": "2026/08/09",
+                "fajr": "04:27",
+                "sunrise": "06:21",
+                "dhuhr": "13:28",
+                "sunset": "20:34",
+                "maghreb": "20:51",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/10",
+                "fajr": "04:28",
+                "sunrise": "06:22",
+                "dhuhr": "13:28",
+                "sunset": "20:33",
+                "maghreb": "20:50",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/11",
+                "fajr": "04:30",
+                "sunrise": "06:23",
+                "dhuhr": "13:28",
+                "sunset": "20:31",
+                "maghreb": "20:49",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/12",
+                "fajr": "04:32",
+                "sunrise": "06:24",
+                "dhuhr": "13:28",
+                "sunset": "20:30",
+                "maghreb": "20:47",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/13",
+                "fajr": "04:34",
+                "sunrise": "06:25",
+                "dhuhr": "13:28",
+                "sunset": "20:28",
+                "maghreb": "20:46",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/14",
+                "fajr": "04:35",
+                "sunrise": "06:26",
+                "dhuhr": "13:28",
+                "sunset": "20:27",
+                "maghreb": "20:44",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:28"
+            },
+            {
+                "prayerDate": "2026/08/15",
+                "fajr": "04:37",
+                "sunrise": "06:27",
+                "dhuhr": "13:27",
+                "sunset": "20:25",
+                "maghreb": "20:42",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/08/16",
+                "fajr": "04:39",
+                "sunrise": "06:28",
+                "dhuhr": "13:27",
+                "sunset": "20:24",
+                "maghreb": "20:41",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/08/17",
+                "fajr": "04:40",
+                "sunrise": "06:30",
+                "dhuhr": "13:27",
+                "sunset": "20:22",
+                "maghreb": "20:39",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/08/18",
+                "fajr": "04:42",
+                "sunrise": "06:31",
+                "dhuhr": "13:27",
+                "sunset": "20:21",
+                "maghreb": "20:38",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/08/19",
+                "fajr": "04:44",
+                "sunrise": "06:32",
+                "dhuhr": "13:27",
+                "sunset": "20:19",
+                "maghreb": "20:36",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:27"
+            },
+            {
+                "prayerDate": "2026/08/20",
+                "fajr": "04:45",
+                "sunrise": "06:33",
+                "dhuhr": "13:26",
+                "sunset": "20:17",
+                "maghreb": "20:34",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/08/21",
+                "fajr": "04:47",
+                "sunrise": "06:34",
+                "dhuhr": "13:26",
+                "sunset": "20:16",
+                "maghreb": "20:33",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/08/22",
+                "fajr": "04:49",
+                "sunrise": "06:35",
+                "dhuhr": "13:26",
+                "sunset": "20:14",
+                "maghreb": "20:31",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/08/23",
+                "fajr": "04:50",
+                "sunrise": "06:36",
+                "dhuhr": "13:26",
+                "sunset": "20:12",
+                "maghreb": "20:29",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:26"
+            },
+            {
+                "prayerDate": "2026/08/24",
+                "fajr": "04:52",
+                "sunrise": "06:37",
+                "dhuhr": "13:25",
+                "sunset": "20:11",
+                "maghreb": "20:28",
+                "midnight": "00:32",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/08/25",
+                "fajr": "04:53",
+                "sunrise": "06:38",
+                "dhuhr": "13:25",
+                "sunset": "20:09",
+                "maghreb": "20:26",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/08/26",
+                "fajr": "04:55",
+                "sunrise": "06:40",
+                "dhuhr": "13:25",
+                "sunset": "20:07",
+                "maghreb": "20:24",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:25"
+            },
+            {
+                "prayerDate": "2026/08/27",
+                "fajr": "04:56",
+                "sunrise": "06:41",
+                "dhuhr": "13:24",
+                "sunset": "20:06",
+                "maghreb": "20:23",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/08/28",
+                "fajr": "04:58",
+                "sunrise": "06:42",
+                "dhuhr": "13:24",
+                "sunset": "20:04",
+                "maghreb": "20:21",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/08/29",
+                "fajr": "04:59",
+                "sunrise": "06:43",
+                "dhuhr": "13:24",
+                "sunset": "20:02",
+                "maghreb": "20:19",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/08/30",
+                "fajr": "05:01",
+                "sunrise": "06:44",
+                "dhuhr": "13:24",
+                "sunset": "20:01",
+                "maghreb": "20:17",
+                "midnight": "00:31",
+                "astronomicalMidnight": "01:24"
+            },
+            {
+                "prayerDate": "2026/08/31",
+                "fajr": "05:02",
+                "sunrise": "06:45",
+                "dhuhr": "13:23",
+                "sunset": "19:59",
+                "maghreb": "20:15",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/09/01",
+                "fajr": "05:04",
+                "sunrise": "06:46",
+                "dhuhr": "13:23",
+                "sunset": "19:57",
+                "maghreb": "20:14",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/09/02",
+                "fajr": "05:05",
+                "sunrise": "06:47",
+                "dhuhr": "13:23",
+                "sunset": "19:55",
+                "maghreb": "20:12",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:23"
+            },
+            {
+                "prayerDate": "2026/09/03",
+                "fajr": "05:07",
+                "sunrise": "06:48",
+                "dhuhr": "13:22",
+                "sunset": "19:53",
+                "maghreb": "20:10",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/09/04",
+                "fajr": "05:08",
+                "sunrise": "06:49",
+                "dhuhr": "13:22",
+                "sunset": "19:52",
+                "maghreb": "20:08",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/09/05",
+                "fajr": "05:10",
+                "sunrise": "06:51",
+                "dhuhr": "13:22",
+                "sunset": "19:50",
+                "maghreb": "20:06",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:22"
+            },
+            {
+                "prayerDate": "2026/09/06",
+                "fajr": "05:11",
+                "sunrise": "06:52",
+                "dhuhr": "13:21",
+                "sunset": "19:48",
+                "maghreb": "20:05",
+                "midnight": "00:30",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/09/07",
+                "fajr": "05:12",
+                "sunrise": "06:53",
+                "dhuhr": "13:21",
+                "sunset": "19:46",
+                "maghreb": "20:03",
+                "midnight": "00:29",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/09/08",
+                "fajr": "05:14",
+                "sunrise": "06:54",
+                "dhuhr": "13:21",
+                "sunset": "19:44",
+                "maghreb": "20:01",
+                "midnight": "00:29",
+                "astronomicalMidnight": "01:21"
+            },
+            {
+                "prayerDate": "2026/09/09",
+                "fajr": "05:15",
+                "sunrise": "06:55",
+                "dhuhr": "13:20",
+                "sunset": "19:43",
+                "maghreb": "19:59",
+                "midnight": "00:29",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/09/10",
+                "fajr": "05:17",
+                "sunrise": "06:56",
+                "dhuhr": "13:20",
+                "sunset": "19:41",
+                "maghreb": "19:57",
+                "midnight": "00:29",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/09/11",
+                "fajr": "05:18",
+                "sunrise": "06:57",
+                "dhuhr": "13:20",
+                "sunset": "19:39",
+                "maghreb": "19:55",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:20"
+            },
+            {
+                "prayerDate": "2026/09/12",
+                "fajr": "05:19",
+                "sunrise": "06:58",
+                "dhuhr": "13:19",
+                "sunset": "19:37",
+                "maghreb": "19:54",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/09/13",
+                "fajr": "05:21",
+                "sunrise": "06:59",
+                "dhuhr": "13:19",
+                "sunset": "19:35",
+                "maghreb": "19:52",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:19"
+            },
+            {
+                "prayerDate": "2026/09/14",
+                "fajr": "05:22",
+                "sunrise": "07:00",
+                "dhuhr": "13:18",
+                "sunset": "19:34",
+                "maghreb": "19:50",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:18"
+            },
+            {
+                "prayerDate": "2026/09/15",
+                "fajr": "05:24",
+                "sunrise": "07:01",
+                "dhuhr": "13:18",
+                "sunset": "19:32",
+                "maghreb": "19:48",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:18"
+            },
+            {
+                "prayerDate": "2026/09/16",
+                "fajr": "05:25",
+                "sunrise": "07:03",
+                "dhuhr": "13:18",
+                "sunset": "19:30",
+                "maghreb": "19:46",
+                "midnight": "00:28",
+                "astronomicalMidnight": "01:18"
+            },
+            {
+                "prayerDate": "2026/09/17",
+                "fajr": "05:26",
+                "sunrise": "07:04",
+                "dhuhr": "13:17",
+                "sunset": "19:28",
+                "maghreb": "19:44",
+                "midnight": "00:27",
+                "astronomicalMidnight": "01:17"
+            },
+            {
+                "prayerDate": "2026/09/18",
+                "fajr": "05:28",
+                "sunrise": "07:05",
+                "dhuhr": "13:17",
+                "sunset": "19:26",
+                "maghreb": "19:42",
+                "midnight": "00:27",
+                "astronomicalMidnight": "01:17"
+            },
+            {
+                "prayerDate": "2026/09/19",
+                "fajr": "05:29",
+                "sunrise": "07:06",
+                "dhuhr": "13:17",
+                "sunset": "19:24",
+                "maghreb": "19:41",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:17"
+            },
+            {
+                "prayerDate": "2026/09/20",
+                "fajr": "05:30",
+                "sunrise": "07:07",
+                "dhuhr": "13:16",
+                "sunset": "19:23",
+                "maghreb": "19:39",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:16"
+            },
+            {
+                "prayerDate": "2026/09/21",
+                "fajr": "05:31",
+                "sunrise": "07:08",
+                "dhuhr": "13:16",
+                "sunset": "19:21",
+                "maghreb": "19:37",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:16"
+            },
+            {
+                "prayerDate": "2026/09/22",
+                "fajr": "05:33",
+                "sunrise": "07:09",
+                "dhuhr": "13:16",
+                "sunset": "19:19",
+                "maghreb": "19:35",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:16"
+            },
+            {
+                "prayerDate": "2026/09/23",
+                "fajr": "05:34",
+                "sunrise": "07:10",
+                "dhuhr": "13:15",
+                "sunset": "19:17",
+                "maghreb": "19:33",
+                "midnight": "00:26",
+                "astronomicalMidnight": "01:15"
+            },
+            {
+                "prayerDate": "2026/09/24",
+                "fajr": "05:35",
+                "sunrise": "07:11",
+                "dhuhr": "13:15",
+                "sunset": "19:15",
+                "maghreb": "19:31",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:15"
+            },
+            {
+                "prayerDate": "2026/09/25",
+                "fajr": "05:37",
+                "sunrise": "07:12",
+                "dhuhr": "13:15",
+                "sunset": "19:13",
+                "maghreb": "19:29",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:15"
+            },
+            {
+                "prayerDate": "2026/09/26",
+                "fajr": "05:38",
+                "sunrise": "07:14",
+                "dhuhr": "13:14",
+                "sunset": "19:12",
+                "maghreb": "19:28",
+                "midnight": "00:25",
+                "astronomicalMidnight": "01:14"
+            },
+            {
+                "prayerDate": "2026/09/27",
+                "fajr": "05:39",
+                "sunrise": "07:15",
+                "dhuhr": "13:14",
+                "sunset": "19:10",
+                "maghreb": "19:26",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:14"
+            },
+            {
+                "prayerDate": "2026/09/28",
+                "fajr": "05:40",
+                "sunrise": "07:16",
+                "dhuhr": "13:14",
+                "sunset": "19:08",
+                "maghreb": "19:24",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:14"
+            },
+            {
+                "prayerDate": "2026/09/29",
+                "fajr": "05:42",
+                "sunrise": "07:17",
+                "dhuhr": "13:13",
+                "sunset": "19:06",
+                "maghreb": "19:22",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:13"
+            },
+            {
+                "prayerDate": "2026/09/30",
+                "fajr": "05:43",
+                "sunrise": "07:18",
+                "dhuhr": "13:13",
+                "sunset": "19:05",
+                "maghreb": "19:20",
+                "midnight": "00:24",
+                "astronomicalMidnight": "01:13"
+            },
+            {
+                "prayerDate": "2026/10/01",
+                "fajr": "05:45",
+                "sunrise": "07:20",
+                "dhuhr": "13:12",
+                "sunset": "19:01",
+                "maghreb": "19:17",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:12"
+            },
+            {
+                "prayerDate": "2026/10/02",
+                "fajr": "05:47",
+                "sunrise": "07:22",
+                "dhuhr": "13:12",
+                "sunset": "18:59",
+                "maghreb": "19:15",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:12"
+            },
+            {
+                "prayerDate": "2026/10/03",
+                "fajr": "05:48",
+                "sunrise": "07:23",
+                "dhuhr": "13:12",
+                "sunset": "18:58",
+                "maghreb": "19:13",
+                "midnight": "00:23",
+                "astronomicalMidnight": "01:12"
+            },
+            {
+                "prayerDate": "2026/10/04",
+                "fajr": "05:49",
+                "sunrise": "07:24",
+                "dhuhr": "13:11",
+                "sunset": "18:56",
+                "maghreb": "19:12",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:11"
+            },
+            {
+                "prayerDate": "2026/10/05",
+                "fajr": "05:50",
+                "sunrise": "07:25",
+                "dhuhr": "13:11",
+                "sunset": "18:54",
+                "maghreb": "19:10",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:11"
+            },
+            {
+                "prayerDate": "2026/10/06",
+                "fajr": "05:51",
+                "sunrise": "07:26",
+                "dhuhr": "13:11",
+                "sunset": "18:52",
+                "maghreb": "19:08",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:11"
+            },
+            {
+                "prayerDate": "2026/10/07",
+                "fajr": "05:53",
+                "sunrise": "07:27",
+                "dhuhr": "13:10",
+                "sunset": "18:51",
+                "maghreb": "19:07",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:10"
+            },
+            {
+                "prayerDate": "2026/10/08",
+                "fajr": "05:54",
+                "sunrise": "07:29",
+                "dhuhr": "13:10",
+                "sunset": "18:49",
+                "maghreb": "19:05",
+                "midnight": "00:22",
+                "astronomicalMidnight": "01:10"
+            },
+            {
+                "prayerDate": "2026/10/09",
+                "fajr": "05:55",
+                "sunrise": "07:30",
+                "dhuhr": "13:10",
+                "sunset": "18:47",
+                "maghreb": "19:03",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:10"
+            },
+            {
+                "prayerDate": "2026/10/10",
+                "fajr": "05:56",
+                "sunrise": "07:31",
+                "dhuhr": "13:10",
+                "sunset": "18:46",
+                "maghreb": "19:02",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:10"
+            },
+            {
+                "prayerDate": "2026/10/11",
+                "fajr": "05:57",
+                "sunrise": "07:32",
+                "dhuhr": "13:09",
+                "sunset": "18:44",
+                "maghreb": "19:00",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:09"
+            },
+            {
+                "prayerDate": "2026/10/12",
+                "fajr": "05:59",
+                "sunrise": "07:33",
+                "dhuhr": "13:09",
+                "sunset": "18:42",
+                "maghreb": "18:58",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:09"
+            },
+            {
+                "prayerDate": "2026/10/13",
+                "fajr": "06:00",
+                "sunrise": "07:35",
+                "dhuhr": "13:09",
+                "sunset": "18:41",
+                "maghreb": "18:57",
+                "midnight": "00:21",
+                "astronomicalMidnight": "01:09"
+            },
+            {
+                "prayerDate": "2026/10/14",
+                "fajr": "06:01",
+                "sunrise": "07:36",
+                "dhuhr": "13:09",
+                "sunset": "18:39",
+                "maghreb": "18:55",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:09"
+            },
+            {
+                "prayerDate": "2026/10/15",
+                "fajr": "06:02",
+                "sunrise": "07:37",
+                "dhuhr": "13:08",
+                "sunset": "18:37",
+                "maghreb": "18:53",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/16",
+                "fajr": "06:03",
+                "sunrise": "07:38",
+                "dhuhr": "13:08",
+                "sunset": "18:36",
+                "maghreb": "18:52",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/17",
+                "fajr": "06:05",
+                "sunrise": "07:40",
+                "dhuhr": "13:08",
+                "sunset": "18:34",
+                "maghreb": "18:50",
+                "midnight": "00:20",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/18",
+                "fajr": "06:06",
+                "sunrise": "07:41",
+                "dhuhr": "13:08",
+                "sunset": "18:32",
+                "maghreb": "18:49",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/19",
+                "fajr": "06:07",
+                "sunrise": "07:42",
+                "dhuhr": "13:08",
+                "sunset": "18:31",
+                "maghreb": "18:47",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/20",
+                "fajr": "06:08",
+                "sunrise": "07:43",
+                "dhuhr": "13:08",
+                "sunset": "18:29",
+                "maghreb": "18:46",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:08"
+            },
+            {
+                "prayerDate": "2026/10/21",
+                "fajr": "06:09",
+                "sunrise": "07:45",
+                "dhuhr": "13:07",
+                "sunset": "18:28",
+                "maghreb": "18:44",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/22",
+                "fajr": "06:10",
+                "sunrise": "07:46",
+                "dhuhr": "13:07",
+                "sunset": "18:26",
+                "maghreb": "18:43",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/23",
+                "fajr": "06:12",
+                "sunrise": "07:47",
+                "dhuhr": "13:07",
+                "sunset": "18:25",
+                "maghreb": "18:41",
+                "midnight": "00:19",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/24",
+                "fajr": "06:13",
+                "sunrise": "07:48",
+                "dhuhr": "13:07",
+                "sunset": "18:23",
+                "maghreb": "18:40",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/25",
+                "fajr": "06:14",
+                "sunrise": "07:50",
+                "dhuhr": "13:07",
+                "sunset": "18:22",
+                "maghreb": "18:38",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/26",
+                "fajr": "06:15",
+                "sunrise": "07:51",
+                "dhuhr": "13:07",
+                "sunset": "18:20",
+                "maghreb": "18:37",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/27",
+                "fajr": "06:16",
+                "sunrise": "07:52",
+                "dhuhr": "13:07",
+                "sunset": "18:19",
+                "maghreb": "18:36",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/28",
+                "fajr": "06:17",
+                "sunrise": "07:54",
+                "dhuhr": "13:07",
+                "sunset": "18:17",
+                "maghreb": "18:34",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/29",
+                "fajr": "06:19",
+                "sunrise": "07:55",
+                "dhuhr": "13:07",
+                "sunset": "18:16",
+                "maghreb": "18:33",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/30",
+                "fajr": "06:20",
+                "sunrise": "07:56",
+                "dhuhr": "13:07",
+                "sunset": "18:15",
+                "maghreb": "18:31",
+                "midnight": "00:18",
+                "astronomicalMidnight": "01:07"
+            },
+            {
+                "prayerDate": "2026/10/31",
+                "fajr": "06:21",
+                "sunrise": "07:57",
+                "dhuhr": "13:06",
+                "sunset": "18:13",
+                "maghreb": "18:30",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:06"
+            },
+            {
+                "prayerDate": "2026/11/01",
+                "fajr": "06:21",
+                "sunrise": "07:57",
+                "dhuhr": "13:06",
+                "sunset": "18:13",
+                "maghreb": "18:30",
+                "midnight": "00:17",
+                "astronomicalMidnight": "01:06"
+            },
+            {
+                "prayerDate": "2026/11/02",
+                "fajr": "05:22",
+                "sunrise": "06:59",
+                "dhuhr": "12:06",
+                "sunset": "17:12",
+                "maghreb": "17:29",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:06"
+            },
+            {
+                "prayerDate": "2026/11/03",
+                "fajr": "05:23",
+                "sunrise": "07:00",
+                "dhuhr": "12:06",
+                "sunset": "17:11",
+                "maghreb": "17:28",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:06"
+            },
+            {
+                "prayerDate": "2026/11/04",
+                "fajr": "05:24",
+                "sunrise": "07:01",
+                "dhuhr": "12:06",
+                "sunset": "17:09",
+                "maghreb": "17:26",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:06"
+            },
+            {
+                "prayerDate": "2026/11/05",
+                "fajr": "05:25",
+                "sunrise": "07:03",
+                "dhuhr": "12:06",
+                "sunset": "17:08",
+                "maghreb": "17:25",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:06"
+            },
+            {
+                "prayerDate": "2026/11/06",
+                "fajr": "05:27",
+                "sunrise": "07:04",
+                "dhuhr": "12:07",
+                "sunset": "17:07",
+                "maghreb": "17:24",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/07",
+                "fajr": "05:28",
+                "sunrise": "07:05",
+                "dhuhr": "12:07",
+                "sunset": "17:06",
+                "maghreb": "17:23",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/08",
+                "fajr": "05:29",
+                "sunrise": "07:07",
+                "dhuhr": "12:07",
+                "sunset": "17:04",
+                "maghreb": "17:22",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/09",
+                "fajr": "05:30",
+                "sunrise": "07:08",
+                "dhuhr": "12:07",
+                "sunset": "17:03",
+                "maghreb": "17:21",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/10",
+                "fajr": "05:31",
+                "sunrise": "07:09",
+                "dhuhr": "12:07",
+                "sunset": "17:02",
+                "maghreb": "17:20",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/11",
+                "fajr": "05:32",
+                "sunrise": "07:11",
+                "dhuhr": "12:07",
+                "sunset": "17:01",
+                "maghreb": "17:19",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/12",
+                "fajr": "05:33",
+                "sunrise": "07:12",
+                "dhuhr": "12:07",
+                "sunset": "17:00",
+                "maghreb": "17:18",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/13",
+                "fajr": "05:34",
+                "sunrise": "07:13",
+                "dhuhr": "12:07",
+                "sunset": "16:59",
+                "maghreb": "17:17",
+                "midnight": "23:16",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/14",
+                "fajr": "05:36",
+                "sunrise": "07:14",
+                "dhuhr": "12:07",
+                "sunset": "16:58",
+                "maghreb": "17:16",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:07"
+            },
+            {
+                "prayerDate": "2026/11/15",
+                "fajr": "05:37",
+                "sunrise": "07:16",
+                "dhuhr": "12:08",
+                "sunset": "16:57",
+                "maghreb": "17:15",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:08"
+            },
+            {
+                "prayerDate": "2026/11/16",
+                "fajr": "05:38",
+                "sunrise": "07:17",
+                "dhuhr": "12:08",
+                "sunset": "16:56",
+                "maghreb": "17:14",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:08"
+            },
+            {
+                "prayerDate": "2026/11/17",
+                "fajr": "05:39",
+                "sunrise": "07:18",
+                "dhuhr": "12:08",
+                "sunset": "16:55",
+                "maghreb": "17:13",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:08"
+            },
+            {
+                "prayerDate": "2026/11/18",
+                "fajr": "05:40",
+                "sunrise": "07:20",
+                "dhuhr": "12:08",
+                "sunset": "16:54",
+                "maghreb": "17:12",
+                "midnight": "23:17",
+                "astronomicalMidnight": "00:08"
+            },
+            {
+                "prayerDate": "2026/11/19",
+                "fajr": "05:41",
+                "sunrise": "07:21",
+                "dhuhr": "12:08",
+                "sunset": "16:54",
+                "maghreb": "17:12",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:08"
+            },
+            {
+                "prayerDate": "2026/11/20",
+                "fajr": "05:42",
+                "sunrise": "07:22",
+                "dhuhr": "12:09",
+                "sunset": "16:53",
+                "maghreb": "17:11",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:09"
+            },
+            {
+                "prayerDate": "2026/11/21",
+                "fajr": "05:43",
+                "sunrise": "07:23",
+                "dhuhr": "12:09",
+                "sunset": "16:52",
+                "maghreb": "17:10",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:09"
+            },
+            {
+                "prayerDate": "2026/11/22",
+                "fajr": "05:44",
+                "sunrise": "07:25",
+                "dhuhr": "12:09",
+                "sunset": "16:51",
+                "maghreb": "17:09",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:09"
+            },
+            {
+                "prayerDate": "2026/11/23",
+                "fajr": "05:45",
+                "sunrise": "07:26",
+                "dhuhr": "12:09",
+                "sunset": "16:51",
+                "maghreb": "17:09",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:09"
+            },
+            {
+                "prayerDate": "2026/11/24",
+                "fajr": "05:46",
+                "sunrise": "07:27",
+                "dhuhr": "12:10",
+                "sunset": "16:50",
+                "maghreb": "17:08",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:10"
+            },
+            {
+                "prayerDate": "2026/11/25",
+                "fajr": "05:47",
+                "sunrise": "07:28",
+                "dhuhr": "12:10",
+                "sunset": "16:49",
+                "maghreb": "17:08",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:10"
+            },
+            {
+                "prayerDate": "2026/11/26",
+                "fajr": "05:48",
+                "sunrise": "07:29",
+                "dhuhr": "12:10",
+                "sunset": "16:49",
+                "maghreb": "17:07",
+                "midnight": "23:18",
+                "astronomicalMidnight": "00:10"
+            },
+            {
+                "prayerDate": "2026/11/27",
+                "fajr": "05:49",
+                "sunrise": "07:31",
+                "dhuhr": "12:11",
+                "sunset": "16:48",
+                "maghreb": "17:07",
+                "midnight": "23:19",
+                "astronomicalMidnight": "00:11"
+            },
+            {
+                "prayerDate": "2026/11/28",
+                "fajr": "05:50",
+                "sunrise": "07:32",
+                "dhuhr": "12:11",
+                "sunset": "16:48",
+                "maghreb": "17:06",
+                "midnight": "23:19",
+                "astronomicalMidnight": "00:11"
+            },
+            {
+                "prayerDate": "2026/11/29",
+                "fajr": "05:51",
+                "sunrise": "07:33",
+                "dhuhr": "12:11",
+                "sunset": "16:48",
+                "maghreb": "17:06",
+                "midnight": "23:20",
+                "astronomicalMidnight": "00:11"
+            },
+            {
+                "prayerDate": "2026/11/30",
+                "fajr": "05:52",
+                "sunrise": "07:34",
+                "dhuhr": "12:12",
+                "sunset": "16:47",
+                "maghreb": "17:06",
+                "midnight": "23:20",
+                "astronomicalMidnight": "00:12"
+            },
+            {
+                "prayerDate": "2026/12/01",
+                "fajr": "05:54",
+                "sunrise": "07:36",
+                "dhuhr": "12:12",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:20",
+                "astronomicalMidnight": "00:12"
+            },
+            {
+                "prayerDate": "2026/12/02",
+                "fajr": "05:55",
+                "sunrise": "07:37",
+                "dhuhr": "12:13",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:20",
+                "astronomicalMidnight": "00:13"
+            },
+            {
+                "prayerDate": "2026/12/03",
+                "fajr": "05:56",
+                "sunrise": "07:38",
+                "dhuhr": "12:13",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:21",
+                "astronomicalMidnight": "00:13"
+            },
+            {
+                "prayerDate": "2026/12/04",
+                "fajr": "05:57",
+                "sunrise": "07:39",
+                "dhuhr": "12:14",
+                "sunset": "16:46",
+                "maghreb": "17:04",
+                "midnight": "23:22",
+                "astronomicalMidnight": "00:14"
+            },
+            {
+                "prayerDate": "2026/12/05",
+                "fajr": "05:57",
+                "sunrise": "07:40",
+                "dhuhr": "12:14",
+                "sunset": "16:46",
+                "maghreb": "17:04",
+                "midnight": "23:22",
+                "astronomicalMidnight": "00:14"
+            },
+            {
+                "prayerDate": "2026/12/06",
+                "fajr": "05:58",
+                "sunrise": "07:41",
+                "dhuhr": "12:15",
+                "sunset": "16:46",
+                "maghreb": "17:04",
+                "midnight": "23:22",
+                "astronomicalMidnight": "00:15"
+            },
+            {
+                "prayerDate": "2026/12/07",
+                "fajr": "05:59",
+                "sunrise": "07:42",
+                "dhuhr": "12:15",
+                "sunset": "16:45",
+                "maghreb": "17:04",
+                "midnight": "23:22",
+                "astronomicalMidnight": "00:15"
+            },
+            {
+                "prayerDate": "2026/12/08",
+                "fajr": "06:00",
+                "sunrise": "07:43",
+                "dhuhr": "12:15",
+                "sunset": "16:45",
+                "maghreb": "17:04",
+                "midnight": "23:22",
+                "astronomicalMidnight": "00:15"
+            },
+            {
+                "prayerDate": "2026/12/09",
+                "fajr": "06:01",
+                "sunrise": "07:44",
+                "dhuhr": "12:16",
+                "sunset": "16:46",
+                "maghreb": "17:04",
+                "midnight": "23:23",
+                "astronomicalMidnight": "00:16"
+            },
+            {
+                "prayerDate": "2026/12/10",
+                "fajr": "06:01",
+                "sunrise": "07:45",
+                "dhuhr": "12:16",
+                "sunset": "16:46",
+                "maghreb": "17:04",
+                "midnight": "23:23",
+                "astronomicalMidnight": "00:16"
+            },
+            {
+                "prayerDate": "2026/12/11",
+                "fajr": "06:02",
+                "sunrise": "07:46",
+                "dhuhr": "12:17",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:24",
+                "astronomicalMidnight": "00:17"
+            },
+            {
+                "prayerDate": "2026/12/12",
+                "fajr": "06:03",
+                "sunrise": "07:47",
+                "dhuhr": "12:17",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:24",
+                "astronomicalMidnight": "00:17"
+            },
+            {
+                "prayerDate": "2026/12/13",
+                "fajr": "06:03",
+                "sunrise": "07:47",
+                "dhuhr": "12:18",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:24",
+                "astronomicalMidnight": "00:18"
+            },
+            {
+                "prayerDate": "2026/12/14",
+                "fajr": "06:04",
+                "sunrise": "07:48",
+                "dhuhr": "12:18",
+                "sunset": "16:46",
+                "maghreb": "17:05",
+                "midnight": "23:25",
+                "astronomicalMidnight": "00:18"
+            },
+            {
+                "prayerDate": "2026/12/15",
+                "fajr": "06:05",
+                "sunrise": "07:49",
+                "dhuhr": "12:19",
+                "sunset": "16:47",
+                "maghreb": "17:05",
+                "midnight": "23:26",
+                "astronomicalMidnight": "00:19"
+            },
+            {
+                "prayerDate": "2026/12/16",
+                "fajr": "06:05",
+                "sunrise": "07:49",
+                "dhuhr": "12:19",
+                "sunset": "16:47",
+                "maghreb": "17:06",
+                "midnight": "23:26",
+                "astronomicalMidnight": "00:19"
+            },
+            {
+                "prayerDate": "2026/12/17",
+                "fajr": "06:06",
+                "sunrise": "07:50",
+                "dhuhr": "12:20",
+                "sunset": "16:47",
+                "maghreb": "17:06",
+                "midnight": "23:26",
+                "astronomicalMidnight": "00:20"
+            },
+            {
+                "prayerDate": "2026/12/18",
+                "fajr": "06:07",
+                "sunrise": "07:51",
+                "dhuhr": "12:20",
+                "sunset": "16:48",
+                "maghreb": "17:07",
+                "midnight": "23:28",
+                "astronomicalMidnight": "00:20"
+            },
+            {
+                "prayerDate": "2026/12/19",
+                "fajr": "06:07",
+                "sunrise": "07:51",
+                "dhuhr": "12:21",
+                "sunset": "16:48",
+                "maghreb": "17:07",
+                "midnight": "23:28",
+                "astronomicalMidnight": "00:21"
+            },
+            {
+                "prayerDate": "2026/12/20",
+                "fajr": "06:08",
+                "sunrise": "07:52",
+                "dhuhr": "12:21",
+                "sunset": "16:49",
+                "maghreb": "17:08",
+                "midnight": "23:29",
+                "astronomicalMidnight": "00:21"
+            },
+            {
+                "prayerDate": "2026/12/21",
+                "fajr": "06:08",
+                "sunrise": "07:52",
+                "dhuhr": "12:22",
+                "sunset": "16:49",
+                "maghreb": "17:08",
+                "midnight": "23:29",
+                "astronomicalMidnight": "00:22"
+            },
+            {
+                "prayerDate": "2026/12/22",
+                "fajr": "06:09",
+                "sunrise": "07:53",
+                "dhuhr": "12:22",
+                "sunset": "16:50",
+                "maghreb": "17:09",
+                "midnight": "23:30",
+                "astronomicalMidnight": "00:22"
+            },
+            {
+                "prayerDate": "2026/12/23",
+                "fajr": "06:09",
+                "sunrise": "07:53",
+                "dhuhr": "12:23",
+                "sunset": "16:50",
+                "maghreb": "17:09",
+                "midnight": "23:30",
+                "astronomicalMidnight": "00:23"
+            },
+            {
+                "prayerDate": "2026/12/24",
+                "fajr": "06:09",
+                "sunrise": "07:53",
+                "dhuhr": "12:23",
+                "sunset": "16:51",
+                "maghreb": "17:10",
+                "midnight": "23:30",
+                "astronomicalMidnight": "00:23"
+            },
+            {
+                "prayerDate": "2026/12/25",
+                "fajr": "06:10",
+                "sunrise": "07:54",
+                "dhuhr": "12:24",
+                "sunset": "16:52",
+                "maghreb": "17:10",
+                "midnight": "23:31",
+                "astronomicalMidnight": "00:24"
+            },
+            {
+                "prayerDate": "2026/12/26",
+                "fajr": "06:10",
+                "sunrise": "07:54",
+                "dhuhr": "12:24",
+                "sunset": "16:52",
+                "maghreb": "17:11",
+                "midnight": "23:31",
+                "astronomicalMidnight": "00:24"
+            },
+            {
+                "prayerDate": "2026/12/27",
+                "fajr": "06:10",
+                "sunrise": "07:54",
+                "dhuhr": "12:25",
+                "sunset": "16:53",
+                "maghreb": "17:12",
+                "midnight": "23:31",
+                "astronomicalMidnight": "00:25"
+            },
+            {
+                "prayerDate": "2026/12/28",
+                "fajr": "06:11",
+                "sunrise": "07:54",
+                "dhuhr": "12:25",
+                "sunset": "16:54",
+                "maghreb": "17:13",
+                "midnight": "23:33",
+                "astronomicalMidnight": "00:25"
+            },
+            {
+                "prayerDate": "2026/12/29",
+                "fajr": "06:11",
+                "sunrise": "07:55",
+                "dhuhr": "12:26",
+                "sunset": "16:55",
+                "maghreb": "17:13",
+                "midnight": "23:33",
+                "astronomicalMidnight": "00:26"
+            },
+            {
+                "prayerDate": "2026/12/30",
+                "fajr": "06:11",
+                "sunrise": "07:55",
+                "dhuhr": "12:26",
+                "sunset": "16:55",
+                "maghreb": "17:14",
+                "midnight": "23:33",
+                "astronomicalMidnight": "00:26"
+            },
+            {
+                "prayerDate": "2026/12/31",
+                "fajr": "06:11",
+                "sunrise": "07:55",
+                "dhuhr": "12:26",
+                "sunset": "16:56",
+                "maghreb": "17:15",
+                "midnight": "23:34",
+                "astronomicalMidnight": "00:26"
+            }
+        ]
+    }
+}

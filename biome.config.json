@@ -1,0 +1,13 @@
+{
+  "files": {
+    "include": ["src/**", "test/**"]
+  },
+  "language": {
+    "ecmaVersion": 2026,
+    "sourceType": "module"
+  },
+  "formatter": {
+    "indentStyle": "space",
+    "indentSize": 2
+  }
+}

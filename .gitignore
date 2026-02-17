@@ -1,6 +1,10 @@
 # Node
 node_modules/
 
+adhan-js/
+scripts/
+kitchener 2026.csv
+
 # dotenv
 .env
 .env.local
