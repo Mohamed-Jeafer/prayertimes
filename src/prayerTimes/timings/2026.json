@@ -6,12 +6,12 @@
     "data": {
         "location": null,
         "localDateTimeNow": {
-            "date": "1447/08/29",
+            "date": "1447/09/01",
             "gmt": "-5",
-            "localTime": "00:47:25",
-            "hijriDate": "1447/08/28",
-            "hijriDateString": "1447  شعبان  28",
-            "weekday": "Tuesday",
+            "localTime": "12:45:09",
+            "hijriDate": "1447/08/29",
+            "hijriDateString": "1447  شعبان  29",
+            "weekday": "Wednesday",
             "daylightSavingsTime": "False"
         },
         "prayerTimes": [

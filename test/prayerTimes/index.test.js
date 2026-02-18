@@ -6,7 +6,7 @@ jest.setTimeout(20000);
 
 test('calculator matches stored API timings (one day per month) within ±1 minute', () => {
   // Load local timings JSON (saved full-year response)
-  const raw = fs.readFileSync('src/prayerTimes/timings/2026', 'utf8');
+  const raw = fs.readFileSync('src/prayerTimes/timings/2026.json', 'utf8');
   const parsed = JSON.parse(raw);
   const prayers = parsed.data.prayerTimes;
 

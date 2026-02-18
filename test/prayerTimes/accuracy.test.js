@@ -13,7 +13,7 @@ import { calculatePrayerTimes } from '../../src/prayerTimes/index.js';
 
 // ── helpers ──────────────────────────────────────────────────────
 
-const raw = fs.readFileSync('src/prayerTimes/timings/2026', 'utf8');
+const raw = fs.readFileSync('src/prayerTimes/timings/2026.json', 'utf8');
 const parsed = JSON.parse(raw);
 const prayers = parsed.data.prayerTimes;
 const LAT = parsed.latitude;   // 43.4414
