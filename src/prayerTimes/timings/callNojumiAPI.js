@@ -27,6 +27,4 @@ async function callNojumiAPI() {
   } finally {
     console.log('API call completed');
   };
-}
-
-callNojumiAPI();
+};
