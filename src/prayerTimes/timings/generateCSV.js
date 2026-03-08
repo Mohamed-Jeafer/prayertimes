@@ -32,7 +32,7 @@ const PLACEHOLDER = "";
  * 10. Maghrib (flat)— h:mm AM/PM  (same as col 7, no separate raw value)
  */
 const rows = timings.data.prayerTimes.map((day) => {
-	const date = day.prayerDate.replace(/\//g, "-");
+	const date = day.prayerDate.replaceAll("/", "-");
 	const fajr = to12Hour(day.fajr);
 	const sunrise = to12Hour(day.sunrise);
 	const dhuhr = to12Hour(day.dhuhr);
